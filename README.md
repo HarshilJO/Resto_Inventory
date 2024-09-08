@@ -1,4 +1,4 @@
-# Angular Sample Dashboard 1
+# Angular BIlling Project
 
 ## Getting Started
 
