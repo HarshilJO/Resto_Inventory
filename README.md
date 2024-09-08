@@ -1,4 +1,4 @@
-# Angular BIlling Project
+# Angular Billing Project
 
 ## Getting Started
 
